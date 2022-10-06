@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'pgn/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'pgn2'
+  spec.name          = 'pgn3'
   spec.version       = PGN::VERSION
   spec.authors       = ['Stacey Touset', 'Murilo Vasconcelos', 'Alexis Vargas']
   spec.email         = ['stacey@touset.org', 'muriloime@gmail.com', 'lexisvar@gmail.comm']
