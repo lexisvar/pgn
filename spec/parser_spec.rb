@@ -133,11 +133,19 @@ describe PGN do
       expect { game.positions }.not_to raise_error
       expect(game.moves).not_to be_empty
     end
+    
 
     it 'gets game comment' do
       games = PGN.parse(File.read('./spec/pgn_files/no_moves.pgn'))
       game = games.last
       expect(game.comment).to eq('{game comment}')
     end
+
+    it 'tag_values with double quotes' do
+      games = PGN.parse(File.read('./spec/pgn_files/doublequotes.pgn'))
+      game = games.last
+      expect(game.tags['Event']).to eq('IRT BLITZ "Sub Zonal"')
+    end
+    
   end
 end

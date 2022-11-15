@@ -11,7 +11,6 @@ module PGN
       ending = input.length
       @@pgn ||= ''
       @@game_comment ||= nil
-
       until offset == ending
         next_token(input, offset, line).tap do |token|
           if !token.nil?
@@ -131,7 +130,7 @@ module PGN
       string: /
         "                          # beginning of string
         (
-          [[:print:]&&[^\\"]] |    # printing characters except quote and backslash
+          [[:print:]&&[^\\]]  |    # printing characters except quote and backslash
           \\\\                |    # escaped backslashes
           \\"                      # escaped quotation marks
         )*                         # zero or more of the above
