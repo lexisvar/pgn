@@ -146,6 +146,13 @@ describe PGN do
       game = games.last
       expect(game.tags['Event']).to eq('IRT BLITZ "Sub Zonal"')
     end
+
+    it 'set encoding' do
+      file = File.read('./spec/pgn_files/specialcharacters.pgn')
+      games = PGN.parse(file, Encoding::UTF_8)
+      game = games.first
+      expect(game.tags['WhiteTeam']).to eq('NARIÑO')
+    end
     
   end
 end

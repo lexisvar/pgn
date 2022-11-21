@@ -1,0 +1,77 @@
+[Event "XXI Juegos Deportivos Nacionales AJEDREZ RAPIDO Absoluto por Equipos 2019"]
+[Site "Cartagena (Bolivar-Colombia) Centro Amurallado, Palacio de la Proclamación"]
+[Date "2019.11.29"]
+[Round "1"]
+[Board "1"]
+[White "Pai, Juan David"]
+[Black "Vargas Arteaga, Alexis"]
+[Result "0-1"]
+[ECO ""]
+[WhiteElo "2008"]
+[BlackElo "2339"]
+[PlyCount "0"]
+[EventDate "2019.11.29"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "COL"]
+[WhiteTeam "NARIÑO"]
+[BlackTeam "SANTANDER"]
+
+1. d4 {[%clk 00:15:18]} {[%emt 00:00:02]} Nf6 {[%clk 00:15:17]} {[%emt
+00:00:03]} 2. Nf3 {[%clk 00:15:12]} {[%emt 00:00:16]} e6 {[%clk 00:15:25]}
+{[%emt 00:00:01]} 3. c4 {[%clk 00:15:19]} {[%emt 00:00:03]} b6 {[%clk
+00:15:30]} {[%emt 00:00:05]} 4. g3 {[%clk 00:15:28]} {[%emt 00:00:02]} Ba6
+{[%clk 00:15:37]} {[%emt 00:00:02]} 5. b3 {[%clk 00:15:37]} {[%emt 00:00:02]}
+b5 {[%clk 00:15:46]} {[%emt 00:00:01]} 6. Bg2 {[%clk 00:15:36]} {[%emt
+00:00:12]} bxc4 {[%clk 00:15:54]} {[%emt 00:00:01]} 7. Ne5 {[%clk 00:15:45]}
+Bb4+ {[%clk 00:16:03]} {[%emt 00:00:01]} 8. Bd2 {[%clk 00:15:54]} cxb3 {[%clk
+00:16:12]} {[%emt 00:00:01]} 9. axb3 {[%clk 00:15:53]} {[%emt 00:00:11]} Bxd2+
+{[%clk 00:16:18]} {[%emt 00:00:04]} 10. Qxd2 {[%clk 00:14:36]} {[%emt
+00:01:27]} d5 {[%clk 00:16:27]} 11. O-O {[%clk 00:13:50]} {[%emt 00:00:57]} O-O
+{[%clk 00:16:34]} {[%emt 00:00:03]} 12. Rc1 {[%clk 00:13:49]} {[%emt 00:00:11]}
+Nfd7 {[%clk 00:16:15]} {[%emt 00:00:28]} 13. Nc6 {[%clk 00:11:27]} {[%emt
+00:02:32]} Nxc6 {[%clk 00:16:23]} {[%emt 00:00:02]} 14. Rxa6 {[%clk 00:11:26]}
+{[%emt 00:00:11]} Ncb8 {[%clk 00:16:06]} {[%emt 00:00:27]} 15. Ra5 {[%clk
+00:11:12]} {[%emt 00:00:24]} a6 {[%clk 00:16:13]} {[%emt 00:00:02]} 16. Qb4
+{[%clk 00:10:47]} {[%emt 00:00:36]} Ra7 {[%clk 00:16:17]} {[%emt 00:00:05]} 17.
+Nc3 {[%clk 00:10:51]} {[%emt 00:00:07]} Nc6 {[%clk 00:16:15]} {[%emt 00:00:12]}
+18. Qa4 {[%clk 00:10:45]} {[%emt 00:00:17]} Nxa5 {[%clk 00:16:23]} {[%emt
+00:00:01]} 19. Qxa5 {[%clk 00:10:54]} {[%emt 00:00:01]} c5 {[%clk 00:16:22]}
+{[%emt 00:00:11]} 20. Qxd8 {[%clk 00:10:27]} {[%emt 00:00:37]} Rxd8 {[%clk
+00:16:30]} {[%emt 00:00:01]} 21. dxc5 {[%clk 00:10:36]} {[%emt 00:00:02]} Nxc5
+{[%clk 00:16:23]} {[%emt 00:00:16]} 22. Nxd5 {[%clk 00:10:36]} {[%emt
+00:00:12]} Nxb3 {[%clk 00:15:29]} {[%emt 00:01:03]} 23. Rc3 {[%clk 00:10:33]}
+{[%emt 00:00:13]} Nd4 {[%clk 00:15:23]} {[%emt 00:00:16]} 24. Nf4 {[%clk
+00:10:30]} {[%emt 00:00:13]} g5 {[%clk 00:15:21]} {[%emt 00:00:12]} 25. e3
+{[%clk 00:10:25]} {[%emt 00:00:16]} gxf4 {[%clk 00:15:28]} {[%emt 00:00:02]} 26.
+exd4 {[%clk 00:10:34]} {[%emt 00:00:02]} Rxd4 {[%clk 00:15:36]} {[%emt
+00:00:01]} 27. gxf4 {[%clk 00:10:36]} {[%emt 00:00:08]} Rxf4 {[%clk 00:15:42]}
+{[%emt 00:00:04]} 28. Rg3+ {[%clk 00:09:57]} {[%emt 00:00:48]} Kf8 {[%clk
+00:15:49]} {[%emt 00:00:03]} 29. Rh3 {[%clk 00:10:06]} {[%emt 00:00:02]} f6
+{[%clk 00:15:51]} {[%emt 00:00:07]} 30. Ra3 {[%clk 00:10:07]} {[%emt 00:00:10]}
+a5 {[%clk 00:15:45]} {[%emt 00:00:16]} 31. Bc6 {[%clk 00:10:15]} {[%emt
+00:00:01]} Ke7 {[%clk 00:15:43]} {[%emt 00:00:13]} 32. Rd3 {[%clk 00:10:23]}
+{[%emt 00:00:02]} Rc7 {[%clk 00:15:42]} {[%emt 00:00:10]} 33. Ba4 {[%clk
+00:10:12]} {[%emt 00:00:22]} Rxa4 {[%clk 00:15:49]} {[%emt 00:00:03]}  0-1
+
+[Event "IRT BLITZ "Sub Zonal""]
+[Site "HOTEL CAFEIRA Calle 18 Nro. 5 - 38 Centro de Pereira Risaralda"]
+[Date "2021.11.27"]
+[Round "1"]
+[Board "2"]
+[White "Jaramillo, Carlos Orlando"]
+[Black "Vargas Arteaga, Alexis"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "1785"]
+[BlackElo "2343"]
+[PlyCount "54"]
+[EventDate "2021.11.27"]
+[EventRounds "18"]
+[EventCountry "COL"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 Nbd7 4. f4 g6 5. Nf3 c5 6. e5 cxd4 7. Qxd4 dxe5 8.
+fxe5 Nh5 9. e6 Bg7 10. exd7+ Bxd7 11. Qb4 O-O 12. Be3 a5 13. Qh4 Rc8 14. Bd2
+Qb6 15. O-O-O Be6 16. g4 Nf6 17. Ng5 Bxg4 18. Nd5 Qxb2+ 19. Kxb2 Nxd5+ 20. c3
+h5 21. Bg2 Nxc3 22. Bxc3 Rxc3 23. Kb1 Rc4 24. Rhf1 Bf5+ 25. Rxf5 Rxh4 26. Rxa5
+Rc8 27. Bd5 e6  0-1
