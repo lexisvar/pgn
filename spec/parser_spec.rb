@@ -150,8 +150,10 @@ describe PGN do
     it 'set encoding' do
       file = File.read('./spec/pgn_files/specialcharacters.pgn')
       games = PGN.parse(file, Encoding::UTF_8)
-      game = games.first
-      expect(game.tags['WhiteTeam']).to eq('NARIÑO')
+      game1 = games.first
+      game2 = games.last
+      expect(game1.tags['WhiteTeam']).to eq('NARIÑO')
+      expect(game2.tags['Site']).to eq('HOTEL CAFEIRA Calle 18 Nro. 5 – 38 Centro de Pereira – Risaralda')
     end
     
   end
